@@ -4,7 +4,7 @@ public class Operadores {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	// OPERADORES
+	// OPERADORES se puede validar tanto números como strings
 		
 		// Operadores aritméticos
 		int x = 2;
