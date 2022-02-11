@@ -4,9 +4,9 @@ public class Operadores {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	// OPERATORS
+	// OPERADORES
 		
-		// Operadores aritmeticos
+		// Operadores aritméticos
 		int x = 2;
 		int y = 2;
 		
