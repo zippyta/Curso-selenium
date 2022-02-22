@@ -3,10 +3,9 @@ package com.java;
 public class Operadores {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-	// OPERADORES se puede validar tanto números como strings
+		// OPERATORS
 		
-		// Operadores aritméticos
+		// Operadores aritmeticos
 		int x = 2;
 		int y = 2;
 		
@@ -79,6 +78,8 @@ public class Operadores {
 			System.out.println("ALGUN VALOR ES DIFERENTE");
 		}
 		
+		
+
 	}
 
 }

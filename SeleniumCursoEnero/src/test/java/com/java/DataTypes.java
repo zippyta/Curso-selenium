@@ -3,7 +3,7 @@ package com.java;
 public class DataTypes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		// Datos primitivos
 
 		byte var1 = 1; // Numerico entero
@@ -22,7 +22,7 @@ public class DataTypes {
 		int y = 10;
 
 		// Char symbol example
-		char symbol = '\u00D5'; // U con minúscula sin el signo + que trae en el nombre
+		char symbol = '\u00D5';
 
 		// Cadena Char
 		String message = "Hello world"; // - Automation
@@ -37,8 +37,8 @@ public class DataTypes {
 		int numero = 1;
 		int numero2 = 2;
 		String nombre = "Ricardo";
-		System.out.println(nombre + numero);
-		System.out.println(numero2 + "" + numero);
+		System.out.println(nombre + numero);		
+		System.out.println(numero2 +""+ numero);
 
 	}
 

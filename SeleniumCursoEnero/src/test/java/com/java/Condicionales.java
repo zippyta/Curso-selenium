@@ -3,8 +3,8 @@ package com.java;
 public class Condicionales {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-	// CONDIOCIONALES
+		
+		// CONDIOCIONALES
 		
 		// Automovil conduciento a exceso de velocidad
 		int limiteVelocidad = 80; //KM*H
@@ -48,8 +48,7 @@ public class Condicionales {
 				System.out.println("MULTA!!! - Vas en Carretera"); // TRUE
 			}else {
 				System.out.println("DESCUENTO - Vas en Carretera"); // FALSE
-			}
-			
+			}			
 		} else if(velocidadActual>limiteVelocidad) {
 			System.out.println("MULTA!!! - Vas en calle"); // TRUE
 		}else {
@@ -85,6 +84,7 @@ public class Condicionales {
 				 System.out.println("Temperatura Otro lugar");
 				 break;
 		 }
+
 	}
 
 }
